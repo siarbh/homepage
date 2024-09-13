@@ -8,6 +8,7 @@ pygmentsuseclasses = true
 staticDir = ["static"]
 #enableGitInfo = true
 disableKinds = ["GitInfo"]
+canonifyURLs = true
 
 [[menu.main]]
     name = "Home"
